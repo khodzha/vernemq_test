@@ -1,0 +1,6 @@
+testp/*
+!testp/src/
+!testp/rel/
+!testp/relx.config
+!testp/Makefile
+!testp/erlang.mk
